@@ -1,0 +1,11 @@
+
+Code by AiTechEye and edited by TenPlus1 (LGPL-2.1-only)
+
+Sound by cmusounddesign (Attribution 3.0 license):
+  bows_shoot.ogg
+
+Licenses of media (textures
+----------------------------
+Copyright (C) VOPI Team
+
+Graphics in this mod is NOT free and can be used only as part of the official Kawaii World build.

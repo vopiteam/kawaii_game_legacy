@@ -1,0 +1,6 @@
+# textdomain: boats
+Boat=Лодка
+Boat: cruise mode on=Лодка: круизный режим включен
+Boat: cruise mode off=Лодка: круизный режим выключен
+
+To stand up, press and hold your finger on the boat you are sitting on!=Чтобы встать, нажмите и удерживайте палец на лодке, на которой вы сидите!

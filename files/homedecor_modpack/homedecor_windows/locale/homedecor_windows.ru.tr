@@ -1,0 +1,32 @@
+# textdomain: homedecor_windows
+
+
+### init.lua ###
+
+Curtain Rod Blue=Карниз для штор синий
+Curtain Rod Green=Карниз для штор зеленый
+Curtain Rod Magenta=Карниз для штор пурпурный
+Curtains Blue=Шторы синие
+Curtains Blue (open)=Шторы синие (открытые)
+Curtains Orange=Шторы оранжевые
+Curtains Orange (open)=Шторы оранжевые (открытые)
+Curtains Pink=Шторы розовые
+Curtains Pink (open)=Шторы розовые (открытые)
+Stained Glass=Витражное стекло
+Window Lime (plain)=Окно зеленое (простое)
+Window Violet (plain)=Окно фиолетовое (простое)
+Window Yellow (plain)=Окно желтое (простое)
+Window Lime(quartered)=Окно зеленое (разделённое)
+Window Violet (quartered)=Окно фиолетовое (разделённое)
+Window Yellow (quartered)=Окно желтое (разделённое)
+Window Blinds Blue (thick)=Жалюзи синие (широкие)
+Window Blinds Green (thick)=Жалюзи зеленые (широкие)
+Window Blinds Red (thick)=Жалюзи красные (широкие)
+Window Blinds Blue (thin)=Жалюзи синие (узкие)
+Window Blinds Green (thin)=Жалюзи зеленые (узкие)
+Window Blinds Red (thin)=Жалюзи красные (узкие)
+Wooden Shutter=Деревянные ставни
+Halloween Curtains=Шторы на Хэллоуин
+Halloween Curtains (open)=Шторы на Хэллоуин (открытые)
+Christmas Curtains=Шторы на Рождество
+Christmas Curtains (open)=Шторы на Рождество (открытые)

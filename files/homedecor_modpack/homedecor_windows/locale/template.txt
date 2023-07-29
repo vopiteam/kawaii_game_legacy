@@ -1,0 +1,28 @@
+# textdomain: homedecor_windows
+
+
+### init.lua ###
+
+Curtain Rod Blue=
+Curtain Rod Green=
+Curtain Rod Magenta=
+Curtains Blue=
+Curtains Blue (open)=
+Curtains Orange=
+Curtains Orange (open)=
+Curtains Pink=
+Curtains Pink (open)=
+Stained Glass=
+Window Lime (plain)=
+Window Violet (plain)=
+Window Yellow (plain)=
+Window Lime(quartered)=
+Window Violet (quartered)=
+Window Yellow (quartered)=
+Window Blinds Blue (thick)=
+Window Blinds Green (thick)=
+Window Blinds Red (thick)=
+Window Blinds Blue (thin)=
+Window Blinds Green (thin)=
+Window Blinds Red (thin)=
+Wooden Shutter=

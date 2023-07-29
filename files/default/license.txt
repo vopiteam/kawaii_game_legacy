@@ -1,0 +1,261 @@
+License of source code
+----------------------
+
+GNU Lesser General Public License, version 3.0
+Copyright (C) 2011-2018 celeron55, Perttu Ahola <celeron55@gmail.com>
+Copyright (C) 2011-2018 Various Minetest developers and contributors
+Copyright (C) 2014-2019 MoNTE48, Maksim D. Gamarnik <MoNTE48@mail.ua>
+Copyright (C) 2014-2019 MultiCraft Development Team
+
+This program is free software; you can redistribute it and/or modify it under the terms
+of the GNU Lesser General Public License as published by the Free Software Foundation;
+either version 3.0 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU Lesser General Public License for more details:
+http://www.gnu.org/licenses/lgpl-3.0.html
+
+
+License of textures
+-------------------
+Copyright (C) Nova_Wostra (CC BY-SA 4.0)
+Copyright (C) VOPI Team
+book_save_btn.png
+bubble.png
+close.png
+close_pressed.png
+default_acacia_bush_sapling.png
+default_acacia_bush_stem.png
+default_acacia_wood.png
+default_apple.png
+default_apple_gold.png
+default_arrow_bg.png
+default_arrow_fg.png
+default_bedrock.png
+default_birch_wood.png
+default_bush_sapling.png
+default_bush_stem.png
+default_button.png
+default_button_pressed.png
+default_charcoal_lump.png
+default_cherry_blossom_leaves.png
+default_cherry_blossom_wood.png
+default_chest_front.png
+default_chest_front_big.png
+default_chest_side.png
+default_chest_side_big.png
+default_chest_top.png
+default_chest_top_big.png
+default_coal_lump.png
+default_dry_grass.png
+default_fence_acacia_wood.png
+default_fence_birch_wood.png
+default_fence_cherry_blossom_wood.png
+default_fence_jungle_wood.png
+default_fence_pine_wood.png
+default_fence_wood.png
+default_furnace_fire_bg.png
+default_furnace_fire_fg.png
+default_glass.png
+default_glass_detail.png
+default_granite.png
+default_granite_brick.png
+default_grass.png
+default_gravel.png
+default_gunpowder.png
+default_item_pressed.png
+default_junglewood.png
+default_ladder_acacia_wood.png
+default_ladder_birch_wood.png
+default_ladder_cherry_blossom_wood.png
+default_ladder_jungle_wood.png
+default_ladder_pine_wood.png
+default_ladder_wood.png
+default_marble_brick.png
+default_mineral_bluestone.png
+default_mineral_coal.png
+default_mineral_copper.png
+default_mineral_diamond.png
+default_mineral_emerald.png
+default_mineral_gold.png
+default_mineral_iron.png
+default_mineral_lapis.png
+default_mineral_silver.png
+default_mineral_tin.png
+default_obsidian.png
+default_obsidian_brick.png
+default_paper.png
+default_pine_bush_stem.png
+default_pine_bush_sapling.png
+default_pine_sapling.png
+default_pine_wood.png
+default_sapling.png
+default_snow_brick.png
+default_tool_diamondaxe.png
+default_tool_diamondpick.png
+default_tool_diamondshovel.png
+default_tool_diamondsword.png
+default_tool_emeraldaxe.png
+default_tool_emeraldpick.png
+default_tool_emeraldshovel.png
+default_tool_emeraldsword.png
+default_tool_goldaxe.png
+default_tool_goldpick.png
+default_tool_goldshovel.png
+default_tool_goldsword.png
+default_tool_rubyaxe.png
+default_tool_rubypick.png
+default_tool_rubyshovel.png
+default_tool_rubysword.png
+default_tool_steelaxe.png
+default_tool_steelpick.png
+default_tool_steelshovel.png
+default_tool_steelsword.png
+default_tool_stoneaxe.png
+default_tool_stonepick.png
+default_tool_stoneshovel.png
+default_tool_stonesword.png
+default_tool_woodaxe.png
+default_tool_woodpick.png
+default_tool_woodshovel.png
+default_tool_woodsword.png
+default_torch.png
+default_torch_animated.png
+default_wood.png
+formspec_backround.png
+formspec_bookshelf_btn.png
+formspec_button.png
+formspec_button_pressed.png
+formspec_cell.png
+formspec_chest_large.png
+formspec_craftguid_btn.png
+formspec_furnance_btn.png
+formspec_inventory.png
+formspec_inventory_alt.png
+formspec_inventory_btn.png
+formspec_item_pressed.png
+gui_hotbar_selected.png
+heart.png
+heart_gone.png
+search_button.png
+small_chest_header.png
+This list of graphics in this mod is NOT free and can be used only as part of the official Kawaii World build.
+
+Licenses of media (textures, models and sounds)
+-----------------------------------------------
+
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+Copyright (C) 2010-2018:
+
+  celeron55, Perttu Ahola <celeron55@gmail.com>
+  Cisoun
+  G4JC
+  VanessaE
+  RealBadAngel
+  Calinou
+  MirceaKitsune
+  Jordach
+  PilzAdam
+  jojoa1997
+  InfinityProject
+  Splizard
+  Zeg9
+  paramat
+  BlockMen
+  sofar
+  Neuromancer
+  Gambit
+  asl97
+  KevDoy
+  Mito551
+  GreenXenith
+  kaeza
+  kilbith
+  tobyplowy
+  CloudyProton
+  TumeniNodes
+  Mossmanikin
+  random-geek
+  Extex101
+  texmex
+  hybriddo
+
+You are free to:
+Share — copy and redistribute the material in any medium or format.
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and
+indicate if changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use.
+
+ShareAlike — If you remix, transform, or build upon the material, you must distribute
+your contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological measures that
+legally restrict others from doing anything the license permits.
+
+Notices:
+
+You do not have to comply with the license for elements of the material in the public
+domain or where your use is permitted by an applicable exception or limitation.
+No warranties are given. The license may not give you all of the permissions necessary
+for your intended use. For example, other rights such as publicity, privacy, or moral
+rights may limit how you use the material.
+
+For more details:
+http://creativecommons.org/licenses/by-sa/3.0/
+
+-----------------------
+
+Attribution 3.0 Unported (CC BY 3.0)
+
+Copyright (C) 2009 cmusounddesign
+Copyright (C) 2010 Tomlija
+Copyright (C) 2010 lsprice
+Copyright (C) 2014 sonictechtonic
+Copyright (C) 2015 yadronoff
+Copyright (C) 2007 HerbertBoland
+Copyright (C) 2006 AGFX
+
+You are free to:
+Share — copy and redistribute the material in any medium or format.
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and
+indicate if changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use.
+
+No additional restrictions — You may not apply legal terms or technological measures that
+legally restrict others from doing anything the license permits.
+
+Notices:
+
+You do not have to comply with the license for elements of the material in the public
+domain or where your use is permitted by an applicable exception or limitation.
+No warranties are given. The license may not give you all of the permissions necessary
+for your intended use. For example, other rights such as publicity, privacy, or moral
+rights may limit how you use the material.
+
+For more details:
+http://creativecommons.org/licenses/by/3.0/
+
+-----------------------
+
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+Iwan Gabovitch
+Ottomaani138
+Ogrebane
+blukotek
+Sevin7
+Yoyodaman234
+Ryding
+
+https://creativecommons.org/publicdomain/zero/1.0/
