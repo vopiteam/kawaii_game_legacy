@@ -23,7 +23,5 @@ Nova_Wostra (CC BY-SA 4.0)
 Copyright (C) VOPI Team
 
 Next graphics and models in this mod is NOT free and can be used only as part of the official Kawaii World build.
-
-mobs_monster_egg.png
-mobs_monster_skeleton_egg.png
 mobs_monster_zombie_egg.png
+mobs_monster_egg.png

@@ -86,7 +86,6 @@ default_mineral_tin.png
 default_obsidian.png
 default_obsidian_brick.png
 default_paper.png
-default_pine_bush_stem.png
 default_pine_bush_sapling.png
 default_pine_sapling.png
 default_pine_wood.png

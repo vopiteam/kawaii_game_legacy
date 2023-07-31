@@ -27,6 +27,25 @@ https://opensource.org/licenses/MIT
 
 License of textures
 -------------------
+
+
 Copyright (C) VOPI Team
 
 Graphics in this mod is NOT free and can be used only as part of the official Kawaii World build.
+
+Except Copyright (C) Nova_Wostra (CC BY-SA 4.0):
+hardened_clay_stained_black.png
+hardened_clay_stained_blue.png
+hardened_clay_stained_brown.png
+hardened_clay_stained_cyan.png
+hardened_clay_stained_dark_green.png
+hardened_clay_stained_dark_grey.png
+hardened_clay_stained_green.png
+hardened_clay_stained_grey.png
+hardened_clay_stained_magenta.png
+hardened_clay_stained_orange.png
+hardened_clay_stained_pink.png
+hardened_clay_stained_red.png
+hardened_clay_stained_violet.png
+hardened_clay_stained_white.png
+hardened_clay_stained_yellow.png

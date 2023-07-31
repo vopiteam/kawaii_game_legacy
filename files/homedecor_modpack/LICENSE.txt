@@ -5,13 +5,6 @@ License of textures
 Copyright (C) VOPI Team
 formspec_oven_btn.png
 formspec_barbecue_icon.png
-homedecor_lattice_vegetal.png
-homedecor_shrubbery_green.png
-homedecor_shrubbery_green_bottom.png
-homedecor_shrubbery_red.png
-homedecor_shrubbery_red_bottom.png
-homedecor_shrubbery_yellow.png
-homedecor_shrubbery_yellow_bottom.png
 homedecor_welcome_mat_orange.png
 homedecor_welcome_mat_pink.png
 homedecor_welcome_mat_white.png
