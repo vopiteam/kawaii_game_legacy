@@ -22,7 +22,6 @@ License of textures
 Copyright (C) Nova_Wostra (CC BY-SA 4.0)
 Copyright (C) VOPI Team
 book_save_btn.png
-bubble.png
 close.png
 close_pressed.png
 default_acacia_bush_sapling.png
